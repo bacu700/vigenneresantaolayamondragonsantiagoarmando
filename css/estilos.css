@@ -1,0 +1,17 @@
+body{
+	background: #000000;;
+}
+.menu{
+padding:70px;;
+}
+.sub-menu{
+	background-image: url(https://i.pinimg.com/564x/7f/26/e0/7f26e0109ddc640e43355abc31531e82.jpg);
+	width:540px;
+	padding:100px;
+	border-radius:10px;
+}
+.entrada{
+	width:100%;
+	padding:30px;
+	float: right;
+}
